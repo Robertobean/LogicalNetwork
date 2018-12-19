@@ -1,4 +1,4 @@
-# LogicalNetwork
+# Logical Network
 Logic circuits trained and implemented in the style of feed-forward neural networks
 
 ## Concept
